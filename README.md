@@ -27,3 +27,14 @@ Software Engineer Intern @ Liberatii — I build and maintain production compone
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+
+📌 Projects
+
+AppTrackr — a full-stack job-application tracker that uses the Anthropic Claude API to predict recruiter responses. Containerized backend deployed to Azure Kubernetes (AKS) via Terraform, with a GitHub Actions pipeline and Prometheus/Grafana monitoring.
+React · TypeScript · FastAPI · PostgreSQL · Docker · Kubernetes · Terraform · Azure
+
+DevOps CI/CD Pipeline — automated Docker build-and-deploy of a Flask service to AWS EC2 through GitHub Actions.
+Flask · Docker · GitHub Actions · AWS
+
+→ More in my pinned repositories below ↓

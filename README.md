@@ -11,22 +11,4 @@ Software Engineer Intern @ Liberatii — I build and maintain production compone
 
 🛠️ Stack
 
-Show Image
-Show Image
-Show Image
-Show Image
-
-Show Image
-Show Image
-Show Image
-
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-
-Show Image
-Show Image
 

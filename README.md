@@ -1,13 +1,13 @@
 Ashkan 👋
 
-Backend & full-stack engineer — Java / Spring Boot, React, and cloud-native DevOps.
+Backend & full-stack engineer, Java / Spring Boot, React, and cloud-native DevOps.
 
 I build production software and the pipelines that ship it. Based in Toronto, Ontario 🇨🇦
 Open to backend / platform / software engineering roles.
 
 🧑‍💻 What I do
 
-Software Engineer Intern @ Liberatii — I build and maintain production components of a Spring Boot + React CRM platform: Java REST APIs backed by DB2 and PostgreSQL, reviewed pull requests shipped to prod, live incident debugging, and work across Docker and CI/CD. Recent work includes a full Oracle → PostgreSQL migration across a 698-table schema.
+Software Engineer Intern @ Liberatii, I build and maintain production components of a Spring Boot + React CRM platform: Java REST APIs backed by DB2 and PostgreSQL, reviewed pull requests shipped to prod, live incident debugging, and work across Docker and CI/CD. Recent work includes a full Oracle → PostgreSQL migration across a 698-table schema.
 
 🛠️ Stack
 
@@ -31,10 +31,10 @@ Software Engineer Intern @ Liberatii — I build and maintain production compone
 
 📌 Projects
 
-AppTrackr — a full-stack job-application tracker that uses the Anthropic Claude API to predict recruiter responses. Containerized backend deployed to Azure Kubernetes (AKS) via Terraform, with a GitHub Actions pipeline and Prometheus/Grafana monitoring.
+AppTrackr, a full-stack job-application tracker that uses the Anthropic Claude API to predict recruiter responses. Containerized backend deployed to Azure Kubernetes (AKS) via Terraform, with a GitHub Actions pipeline and Prometheus/Grafana monitoring.
 React · TypeScript · FastAPI · PostgreSQL · Docker · Kubernetes · Terraform · Azure
 
-DevOps CI/CD Pipeline — automated Docker build-and-deploy of a Flask service to AWS EC2 through GitHub Actions.
+DevOps CI/CD Pipeline, automated Docker build-and-deploy of a Flask service to AWS EC2 through GitHub Actions.
 Flask · Docker · GitHub Actions · AWS
 
 → More in my pinned repositories below ↓
